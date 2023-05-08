@@ -39,5 +39,25 @@ To use the event management app, follow these steps:
 5. Manage your events and receive feedback from customers.
 6. Use the dashboard to track your business performance.
 
+## Images
+
+Here are some screenshots of the event management app:
+
+![Dashboard](images/dashboard-form.png)
+*Dashboard*
+
+![Venue Form](images/venues-form.png)
+*Venue Form*
+
+![Customer Form](images/customer-form.png)
+*Customer Form*
+
+![Manage Event](images/event-form.png)
+*Manage Event*
+
+![Feedback Form](images/feedback-form.png)
+*Feedback Form*
+
+---
 ## Credits
 Created by **Shahan Ahmad**.
